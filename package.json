@@ -1,0 +1,17 @@
+{
+  "name": "puppeteerwebcrawler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "scraper": "node scraper.js",
+    "scraper:3": "for run in {1..3}; do node scraper.js; done"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^20.5.0",
+    "random-useragent": "^0.5.0"
+  }
+}
