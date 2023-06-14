@@ -12,6 +12,7 @@ This is a web scraper project that allows you to extract data from websites in a
 ### Prerequisites
 
 - Node.js: Make sure you have Node.js installed on your machine.
+- Puppeteer
 
 ### Installation
 
