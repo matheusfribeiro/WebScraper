@@ -18,7 +18,7 @@ This is a web scraper project that allows you to extract data from websites in a
 1. Clone the repository:
 
    ```shell
-   git clone [https://github.com/your-username/web-scraper.git](https://github.com/matheusfribeiro/WebScraper/)
+   git clone (https://github.com/matheusfribeiro/WebScraper/)
 
 ### Usage
 Configure the scraper:
@@ -27,6 +27,7 @@ Open config.js and modify the target URLs, data extraction settings, and output 
 Run the scraper:
 
 node scraper.js
+
 
 The scraper will start extracting data from the specified URLs and save it to the designated output file.
 
